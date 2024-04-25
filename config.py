@@ -15,13 +15,13 @@ OWNER_USERNAME = getenv("OWNER_USERNAME", "btwnaksh")
 
 # Random Start Images
 IMG = [
-    "https://te.legra.ph/file/5bf629d10afd4af953585.jpg",
-    "https://te.legra.ph/file/7a321b99fe99d9d8b5117.jpg",
-    "https://te.legra.ph/file/c482a7e55b459ffe07502.jpg",
+    "https://telegra.ph/file/ac5d1c63decedd056ef51.jpg",
+    "https://telegra.ph/file/dc3c8427c93aa231c0b02.jpg",
+    "https://telegra.ph/file/c3ea5bfae852a51fee2f6.jpg",
     "https://telegra.ph//file/0879fbdb307005c1fa8ab.jpg",
     "https://telegra.ph//file/19e3a9d5c0985702497fb.jpg",
-    "https://telegra.ph//file/b5fa277081dddbddd0b12.jpg",
-    "https://telegra.ph//file/96e96245fe1afb82d0398.jpg",
+    "https://telegra.ph/file/a6c72d53b320955a70cf9.jpg",
+    "https://telegra.ph/file/ac5d1c63decedd056ef51.jpg",
     "https://telegra.ph//file/fb140807129a3ccb60164.jpg",
     "https://telegra.ph//file/09c9ea0e2660efae6f62a.jpg",
     "https://telegra.ph//file/3b59b15e1914b4fa18b71.jpg",
@@ -60,9 +60,9 @@ IMG = [
 
 # Random Stickers
 STICKER = [
-    "CAACAgQAAxkBAALRi2NZXUgjZCT775L5Nr0XrLbQ6XIpAAK_EQACpvFxHq2xh5JRVJNrKgQ",
-    "CAACAgQAAxkBAALRjGNZXUs6YPggISBdtg4nXaU0vjNzAALqCwACbCIRU61ZQKi3F88DKgQ",
-    "CAACAgQAAxkBAALRjWNZXUvETcfHR2Yi9ftTQLLP2uD8AAIVDAAC1SMQU-QrCHEcbz8rKgQ",
+    "https://telegra.ph/file/7bb2cd836e150b02e93ef.jpg",
+    "https://telegra.ph/file/e1d07a140e9fd39d00323.jpg",
+    "https://telegra.ph/file/e1d07a140e9fd39d00323.jpg",
 ]
 
 
